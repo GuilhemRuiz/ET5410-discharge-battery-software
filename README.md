@@ -27,3 +27,6 @@ The project has been realized with `Python 3.10.6`.  The whole project has been 
 Here is the list of necessary libraries: `tkinter`, `fpdf`, `fpdf2`, `pyvisa`, `pyvisa-py`, `sqlite3`, `pyserial`, `datetime`, `time`, `matplotlib`, `os`, `sys`, `cx_Freeze`.
 
 The project is functional: it could however be improved by making a cross-platform executable, improving the interface to make it more aesthetic or adding more languages.
+
+
+I have an executable for Windows 10 already compiled. Send me a message if you want it.
